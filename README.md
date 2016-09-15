@@ -1,4 +1,4 @@
-#Rent a House Android App
+#Rent a House Node.js back-end
  
 A native Android app that allows property owners to post their place for rent and tenants to find a place to stay. Property owners can post multiple places and will be notified whenever a tenant occupies their place for rent. Tenant can search for a place and save their search. Tenant will be notified if a new place is available which satisfies the saved search. Used push notifications for notifying tenant and property owner, using Google Cloud Messaging. 
 
